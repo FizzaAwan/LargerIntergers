@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab5_1
+comment0.text=\ \r\n\ \ \ A\ program\ reads\ two\ integer\ values\r\n\ \ \ and\ prints\ out\ the\ larger\ of\ the\ two.\r\n\ \ \ If\ the\ values\ are\ equal,\ only\ one\ of\ the\ value\ is\ printed.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
